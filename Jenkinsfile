@@ -7,7 +7,7 @@ pipeline{
         }
         steps{
             sh "dotnet restore"
-            dotnet "build"
+            sh "dotnet build"
             sh "dotnet publish -c release -o ./Output"
         }
     }
@@ -18,7 +18,7 @@ pipeline{
         }
         steps{
             sh "dotnet restore"
-            dotnet "build"
+            sh "dotnet build"
             sh "dotnet publish -c release -o ./Output"
         }
     }
