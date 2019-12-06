@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="57ec2809-1437-4caf-9665-bf073b3fac67" name="@nucleus-OptiPlex-7050 2019-12-06 15:16:32" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2019-12-06T15:16:32.2237723+06:00" queuing="2019-12-06T15:16:32.2237724+06:00" start="2019-12-06T15:16:31.6334148+06:00" finish="2019-12-06T15:16:32.2307954+06:00" />
+  <TestSettings name="default" id="07c3dbee-4049-4994-9982-92319f53fa6b">
+    <Deployment runDeploymentRoot="_nucleus-OptiPlex-7050_2019-12-06_15_16_32" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="c1ba6de8-134a-4f04-8d47-acd7e2842e7c" testId="be72618c-c9fa-eb33-1440-d650a9aec873" testName="TestMethod1" computerName="nucleus-OptiPlex-7050" duration="00:00:00.0068160" startTime="2019-12-06T15:16:32.0733000+06:00" endTime="2019-12-06T15:16:32.1025891+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1ba6de8-134a-4f04-8d47-acd7e2842e7c">
+      <Output>
+        <StdOut>Lalu</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="/home/nucleus/devops projects/netcore-api/api.test/bin/debug/netcoreapp2.1/api.test.dll" id="be72618c-c9fa-eb33-1440-d650a9aec873">
+      <Execution id="c1ba6de8-134a-4f04-8d47-acd7e2842e7c" />
+      <TestMethod codeBase="/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/Api.Test.dll" adapterTypeName="executor://mstestadapter/v2" className="Api.Test.UnitTest1" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="be72618c-c9fa-eb33-1440-d650a9aec873" executionId="c1ba6de8-134a-4f04-8d47-acd7e2842e7c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
