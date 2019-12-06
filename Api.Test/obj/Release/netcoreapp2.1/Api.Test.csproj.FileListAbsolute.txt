@@ -1,0 +1,17 @@
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Release/netcoreapp2.1/Properties/launchSettings.json
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Release/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Release/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Release/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Release/netcoreapp2.1/Api.Test.deps.json
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Release/netcoreapp2.1/Api.Test.runtimeconfig.json
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Release/netcoreapp2.1/Api.Test.runtimeconfig.dev.json
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Release/netcoreapp2.1/Api.Test.dll
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Release/netcoreapp2.1/Api.Test.pdb
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Release/netcoreapp2.1/netcore-api.dll
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/bin/Release/netcoreapp2.1/netcore-api.pdb
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/obj/Release/netcoreapp2.1/Api.Test.csprojAssemblyReference.cache
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/obj/Release/netcoreapp2.1/Api.Test.AssemblyInfoInputs.cache
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/obj/Release/netcoreapp2.1/Api.Test.AssemblyInfo.cs
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/obj/Release/netcoreapp2.1/Api.Test.csproj.CopyComplete
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/obj/Release/netcoreapp2.1/Api.Test.dll
+/home/nucleus/DevOps Projects/netcore-api/Api.Test/obj/Release/netcoreapp2.1/Api.Test.pdb

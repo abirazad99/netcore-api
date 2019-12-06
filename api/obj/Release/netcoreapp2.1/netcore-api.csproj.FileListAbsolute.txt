@@ -1,0 +1,13 @@
+/home/nucleus/DevOps Projects/netcore-api/api/bin/Release/netcoreapp2.1/Properties/launchSettings.json
+/home/nucleus/DevOps Projects/netcore-api/api/bin/Release/netcoreapp2.1/netcore-api.deps.json
+/home/nucleus/DevOps Projects/netcore-api/api/bin/Release/netcoreapp2.1/netcore-api.runtimeconfig.json
+/home/nucleus/DevOps Projects/netcore-api/api/bin/Release/netcoreapp2.1/netcore-api.runtimeconfig.dev.json
+/home/nucleus/DevOps Projects/netcore-api/api/bin/Release/netcoreapp2.1/netcore-api.dll
+/home/nucleus/DevOps Projects/netcore-api/api/bin/Release/netcoreapp2.1/netcore-api.pdb
+/home/nucleus/DevOps Projects/netcore-api/api/obj/Release/netcoreapp2.1/netcore-api.RazorAssemblyInfo.cache
+/home/nucleus/DevOps Projects/netcore-api/api/obj/Release/netcoreapp2.1/netcore-api.RazorAssemblyInfo.cs
+/home/nucleus/DevOps Projects/netcore-api/api/obj/Release/netcoreapp2.1/netcore-api.AssemblyInfoInputs.cache
+/home/nucleus/DevOps Projects/netcore-api/api/obj/Release/netcoreapp2.1/netcore-api.AssemblyInfo.cs
+/home/nucleus/DevOps Projects/netcore-api/api/obj/Release/netcoreapp2.1/netcore-api.RazorTargetAssemblyInfo.cache
+/home/nucleus/DevOps Projects/netcore-api/api/obj/Release/netcoreapp2.1/netcore-api.dll
+/home/nucleus/DevOps Projects/netcore-api/api/obj/Release/netcoreapp2.1/netcore-api.pdb
