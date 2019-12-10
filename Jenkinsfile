@@ -21,18 +21,7 @@ pipeline{
                 sh "dotnet build"
                 sh "dotnet publish -c release -o ./Output"
                 sh "dotnet test --logger 'trx;LogFileName=test1.trx' -r ./Output/Results/"
-<<<<<<< HEAD
-            }
-        }
-        stage('MsTest'){
-            whenn{
-                branch 'dev'
-            }
-            steps{
                 mstest testResultsFile:"**/*.trx", keepLongStdio: true
-=======
-                mstest testResultsFile:"**./Output/Results/*.trx", keepLongStdio: true
->>>>>>> refs/remotes/origin/dev
             }
         }
     }
