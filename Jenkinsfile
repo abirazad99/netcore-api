@@ -21,6 +21,7 @@ pipeline{
                 sh "dotnet build"
                 sh "dotnet publish -c release -o ./Output"
                 sh "dotnet test --logger 'trx;LogFileName=test1.trx' -r ./Output/Results/"
+                sh "mstest test1:"**/*.trx", keepLongStdio: true"
             }
         }
     }
