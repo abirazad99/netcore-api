@@ -32,5 +32,13 @@ pipeline{
                 sh "rsync -a /var/lib/jenkins/workspace/netcoreAPI_master/Output/ nucleus@localhost:/home/nucleus/myNetCoredll"
             }
         }
+        stage('Shell'){
+            when{
+                branch 'master'
+            }
+            steps{
+                sh "/home/nucleus/ShellForSystemd/./svc.sh /home/nucleus/myNetCoredll/myjson.json"
+            }
+        }
     }
 }

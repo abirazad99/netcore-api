@@ -1,0 +1,6 @@
+{
+    "Description" : "systemd for netcore-api",
+    "Package_path": "/usr/bin/dotnet",
+    "Service_url" : "5000",
+    "Service_path": "/home/nucleus/myNetCoredll/netcore-api.dll"
+}
