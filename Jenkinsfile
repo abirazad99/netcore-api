@@ -24,5 +24,13 @@ pipeline{
                 mstest testResultsFile:"**/*.trx", keepLongStdio: true
             }
         }
+        stage('Rsync'){
+            when{
+                branch 'master'
+            }
+            steps{
+                sh "rsync -a /var/lib/jenkins/workspace/netcoreAPI_master/Output/ nucleus@localhost:/home/nucleus/myNetCoredll"
+            }
+        }
     }
 }
