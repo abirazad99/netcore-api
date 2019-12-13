@@ -37,7 +37,7 @@ pipeline{
                 branch 'master'
             }
             steps{
-                sh "ssh nucleus@localhost /home/nucleus/ShellForSystemd/./svc.sh /home/nucleus/myNetCoredll/myjson.json"
+                sh "ssh nucleus@localhost /home/nucleus/ShellForSystemd/svc.sh /home/nucleus/myNetCoredll/myjson.json"
             }
         }
     }
